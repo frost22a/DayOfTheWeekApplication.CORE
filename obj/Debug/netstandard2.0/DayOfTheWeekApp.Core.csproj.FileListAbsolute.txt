@@ -1,0 +1,9 @@
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.deps.json
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.dll
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\bin\Debug\netstandard2.0\DayOfTheWeekApp.Core.pdb
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.csprojAssemblyReference.cache
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.AssemblyInfoInputs.cache
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.AssemblyInfo.cs
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.csproj.CoreCompileInputs.cache
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.dll
+D:\PROGRAMOWANIE\C#\DayOfTheWeekApp.Core\obj\Debug\netstandard2.0\DayOfTheWeekApp.Core.pdb
